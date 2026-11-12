@@ -10,5 +10,5 @@ d = [
 
 for sett in zip (a,b,c):
     print (sett)
-
-    
+    print()
+  
